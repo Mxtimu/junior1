@@ -1,0 +1,2 @@
+name = "timu"
+print(name)
