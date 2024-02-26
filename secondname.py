@@ -1,2 +1,2 @@
-second_name = "mj"
+second_name = "junior"
 print(second_name)
